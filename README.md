@@ -1,7 +1,7 @@
 # Bright-TV_Viewership-Analytics
 BrightTV’s CEO aims to increase the company’s subscription base in the current financial year
 
-## Objective (as per Case Study Brief)
+## Key Objective (as per Case Study Brief)
 
 Deliver insights that help grow BrightTV’s subscription base by answering:
 - What are the key **user and usage trends**?
@@ -13,9 +13,9 @@ Deliver insights that help grow BrightTV’s subscription base by answering:
 
 ---
 
-## Tools Used
+## Analytical tools applied
 
-| Category              | Tools Used                          |
+| Category              | Analytical Tools                          |
 |-----------------------|-------------------------------------|
 | Project Planning      | Miro                                |
 | Data Processing       | Databricks + SQL                    |
@@ -25,10 +25,10 @@ Deliver insights that help grow BrightTV’s subscription base by answering:
 
 ---
 
-## Methodology Summary
+## Methodology
 
-**Task 1 – Planning & Architecture (Miro)**  
-- Designed full **Data Flow & Architecture Diagram** (Source → Processing → Analysis → Presentation)  
+**Task 1 – Data Planning on Miro**  
+- Designed full **Mind mapping, Data Flow chart and Gantt chart** 
 - Identified key deliverables aligned with CEO objectives
 
 **Task 2 – Data Processing**  
@@ -50,11 +50,11 @@ Deliver insights that help grow BrightTV’s subscription base by answering:
 
 ---
 
-## Key Insights (Summary)
+## Key Insights
 
 Full detailed insights and charts are available in `presentation/CEO_Presentation.pptx` and `insights/Key_Insights_Summary.md`.
 
-**Highlights include:**
+**Key insights are:**
 - Clear user behaviour patterns by time of day and day of week  
 - Factors that drive higher consumption (content type, device, session length)  
 - Specific days/times with low viewership  
@@ -71,7 +71,7 @@ Full detailed insights and charts are available in `presentation/CEO_Presentatio
 
 ---
 
-## Next Steps (Suggested)
+## Suggestions
 
 - Automate weekly viewership reports  
 - Integrate real-time analytics for faster decision-making  
@@ -79,7 +79,7 @@ Full detailed insights and charts are available in `presentation/CEO_Presentatio
 
 ---
 
-## How to Explore This Repo
+## Guide to explore this Repository
 
 1. Start with `README.md`  
 2. View Miro diagram for architecture  
@@ -89,8 +89,8 @@ Full detailed insights and charts are available in `presentation/CEO_Presentatio
 
 ---
 
-**Project completed as per the official BrightTV Case Study brief.**  
+**This project was completed in line with the official BrightLearn Case Study brief.**  
 
 
 
-**Author:** Itumeleng (Junior Data Analyst)  
+**Author:** Tshepo Morake (Junior Data Analyst)  
